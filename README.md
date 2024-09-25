@@ -7,7 +7,7 @@ Esse é o clássico jogo da cobrinha, feito com HTML, CSS e JavaScript. O objeti
 **Como jogar?**
 
 1. Abre o arquivo `index.html` no seu navegador.
-2. Clique em algum botão direcional pra começar a brincadeira.
+2. Aperte em algum botão direcional pra começar a brincadeira.
 3. Usa as setinhas do teclado pra mover a cobrinha.
 4. Quanto mais comida ela comer, maior ela fica! 
 5. Mas toma cuidado pra não bater na parede ou nela mesma, porque aí é Game Over! 
